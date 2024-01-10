@@ -100,3 +100,4 @@ $ internsctl file getinfo [options] <file-name>
 
 2
 # Xenonstack-task# linux1
+# linux1
